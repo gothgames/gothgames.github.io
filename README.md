@@ -1,1 +1,1 @@
-# gothgames.github.io
+# Goth Games dev blog.
