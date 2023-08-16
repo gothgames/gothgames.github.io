@@ -1,1 +1,0 @@
-# Goth Games dev blog.
